@@ -5,7 +5,7 @@ Boostrap 5 - JQuary - DataTable
 
 Nesse projeto realizei um CRUD Completo utilizando MVC  
 
-Alumas telas do projeto
+Algumas telas do projeto
 
 ![image](https://github.com/devluciano/Empretimo_de_livros/assets/61517478/cb5142cd-55a9-4dde-865f-b73632081fa5)
 ![image](https://github.com/devluciano/Empretimo_de_livros/assets/61517478/7c800cc7-8664-4db2-a5e2-64cb5f666581)
