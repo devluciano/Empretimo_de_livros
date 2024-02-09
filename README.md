@@ -1,2 +1,2 @@
-# Empretimo_de_livros
+# Emprestimo_de_livros
 Projeto para prática na linguagem C# - Usando MVC .Net Core
